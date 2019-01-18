@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="completed">Tamamlanan</string>
+    <string name="incomplete">Tamamlanacak</string>
+    <string name="newTask">Yeni Görev Ekleme Sayfası</string>
+    <string name="newTaskTitle">Görevin Başlığını Yazın</string>
+    <string name="taskDetail">Görevin Detaylarını Yazın</string>
+</resources>
